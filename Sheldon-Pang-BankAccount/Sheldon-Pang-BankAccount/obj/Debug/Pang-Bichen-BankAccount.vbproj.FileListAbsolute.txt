@@ -1,0 +1,12 @@
+Z:\Dropbox\SMC\CS19 Advanced Visual Basic Programming\Week 3\VB Projects\Pang-Bichen-BankAccount\Pang-Bichen-BankAccount\bin\Debug\Pang-Bichen-BankAccount.exe.config
+Z:\Dropbox\SMC\CS19 Advanced Visual Basic Programming\Week 3\VB Projects\Pang-Bichen-BankAccount\Pang-Bichen-BankAccount\bin\Debug\Pang-Bichen-BankAccount.exe
+Z:\Dropbox\SMC\CS19 Advanced Visual Basic Programming\Week 3\VB Projects\Pang-Bichen-BankAccount\Pang-Bichen-BankAccount\bin\Debug\Pang-Bichen-BankAccount.pdb
+Z:\Dropbox\SMC\CS19 Advanced Visual Basic Programming\Week 3\VB Projects\Pang-Bichen-BankAccount\Pang-Bichen-BankAccount\bin\Debug\Pang-Bichen-BankAccount.xml
+Z:\Dropbox\SMC\CS19 Advanced Visual Basic Programming\Week 3\VB Projects\Pang-Bichen-BankAccount\Pang-Bichen-BankAccount\obj\Debug\Pang-Bichen-BankAccount.vbprojAssemblyReference.cache
+Z:\Dropbox\SMC\CS19 Advanced Visual Basic Programming\Week 3\VB Projects\Pang-Bichen-BankAccount\Pang-Bichen-BankAccount\obj\Debug\Pang_Bichen_BankAccount.Form1.resources
+Z:\Dropbox\SMC\CS19 Advanced Visual Basic Programming\Week 3\VB Projects\Pang-Bichen-BankAccount\Pang-Bichen-BankAccount\obj\Debug\Pang_Bichen_BankAccount.Resources.resources
+Z:\Dropbox\SMC\CS19 Advanced Visual Basic Programming\Week 3\VB Projects\Pang-Bichen-BankAccount\Pang-Bichen-BankAccount\obj\Debug\Pang-Bichen-BankAccount.vbproj.GenerateResource.cache
+Z:\Dropbox\SMC\CS19 Advanced Visual Basic Programming\Week 3\VB Projects\Pang-Bichen-BankAccount\Pang-Bichen-BankAccount\obj\Debug\Pang-Bichen-BankAccount.vbproj.CoreCompileInputs.cache
+Z:\Dropbox\SMC\CS19 Advanced Visual Basic Programming\Week 3\VB Projects\Pang-Bichen-BankAccount\Pang-Bichen-BankAccount\obj\Debug\Pang-Bichen-BankAccount.exe
+Z:\Dropbox\SMC\CS19 Advanced Visual Basic Programming\Week 3\VB Projects\Pang-Bichen-BankAccount\Pang-Bichen-BankAccount\obj\Debug\Pang-Bichen-BankAccount.xml
+Z:\Dropbox\SMC\CS19 Advanced Visual Basic Programming\Week 3\VB Projects\Pang-Bichen-BankAccount\Pang-Bichen-BankAccount\obj\Debug\Pang-Bichen-BankAccount.pdb

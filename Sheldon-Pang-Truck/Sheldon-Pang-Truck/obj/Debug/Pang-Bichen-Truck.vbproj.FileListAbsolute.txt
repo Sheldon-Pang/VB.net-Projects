@@ -1,0 +1,12 @@
+Z:\Dropbox\SMC\CS19 Advanced Visual Basic Programming\Week 4\VB Project\Pang-Bichen-Truck\Pang-Bichen-Truck\bin\Debug\Pang-Bichen-Truck.exe.config
+Z:\Dropbox\SMC\CS19 Advanced Visual Basic Programming\Week 4\VB Project\Pang-Bichen-Truck\Pang-Bichen-Truck\bin\Debug\Pang-Bichen-Truck.exe
+Z:\Dropbox\SMC\CS19 Advanced Visual Basic Programming\Week 4\VB Project\Pang-Bichen-Truck\Pang-Bichen-Truck\bin\Debug\Pang-Bichen-Truck.pdb
+Z:\Dropbox\SMC\CS19 Advanced Visual Basic Programming\Week 4\VB Project\Pang-Bichen-Truck\Pang-Bichen-Truck\bin\Debug\Pang-Bichen-Truck.xml
+Z:\Dropbox\SMC\CS19 Advanced Visual Basic Programming\Week 4\VB Project\Pang-Bichen-Truck\Pang-Bichen-Truck\obj\Debug\Pang-Bichen-Truck.vbprojAssemblyReference.cache
+Z:\Dropbox\SMC\CS19 Advanced Visual Basic Programming\Week 4\VB Project\Pang-Bichen-Truck\Pang-Bichen-Truck\obj\Debug\Pang_Bichen_Truck.Form1.resources
+Z:\Dropbox\SMC\CS19 Advanced Visual Basic Programming\Week 4\VB Project\Pang-Bichen-Truck\Pang-Bichen-Truck\obj\Debug\Pang_Bichen_Truck.Resources.resources
+Z:\Dropbox\SMC\CS19 Advanced Visual Basic Programming\Week 4\VB Project\Pang-Bichen-Truck\Pang-Bichen-Truck\obj\Debug\Pang-Bichen-Truck.vbproj.GenerateResource.cache
+Z:\Dropbox\SMC\CS19 Advanced Visual Basic Programming\Week 4\VB Project\Pang-Bichen-Truck\Pang-Bichen-Truck\obj\Debug\Pang-Bichen-Truck.vbproj.CoreCompileInputs.cache
+Z:\Dropbox\SMC\CS19 Advanced Visual Basic Programming\Week 4\VB Project\Pang-Bichen-Truck\Pang-Bichen-Truck\obj\Debug\Pang-Bichen-Truck.exe
+Z:\Dropbox\SMC\CS19 Advanced Visual Basic Programming\Week 4\VB Project\Pang-Bichen-Truck\Pang-Bichen-Truck\obj\Debug\Pang-Bichen-Truck.xml
+Z:\Dropbox\SMC\CS19 Advanced Visual Basic Programming\Week 4\VB Project\Pang-Bichen-Truck\Pang-Bichen-Truck\obj\Debug\Pang-Bichen-Truck.pdb
