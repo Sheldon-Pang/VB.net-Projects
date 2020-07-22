@@ -1,0 +1,12 @@
+Z:\Dropbox\SMC\CS19 Advanced Visual Basic Programming\Week 2\VB Project\Bichen-Pang-Rectangle\Bichen-Pang-Rectangle\bin\Debug\Bichen-Pang-Rectangle.exe.config
+Z:\Dropbox\SMC\CS19 Advanced Visual Basic Programming\Week 2\VB Project\Bichen-Pang-Rectangle\Bichen-Pang-Rectangle\bin\Debug\Bichen-Pang-Rectangle.exe
+Z:\Dropbox\SMC\CS19 Advanced Visual Basic Programming\Week 2\VB Project\Bichen-Pang-Rectangle\Bichen-Pang-Rectangle\bin\Debug\Bichen-Pang-Rectangle.pdb
+Z:\Dropbox\SMC\CS19 Advanced Visual Basic Programming\Week 2\VB Project\Bichen-Pang-Rectangle\Bichen-Pang-Rectangle\bin\Debug\Bichen-Pang-Rectangle.xml
+Z:\Dropbox\SMC\CS19 Advanced Visual Basic Programming\Week 2\VB Project\Bichen-Pang-Rectangle\Bichen-Pang-Rectangle\obj\Debug\Bichen-Pang-Rectangle.vbprojAssemblyReference.cache
+Z:\Dropbox\SMC\CS19 Advanced Visual Basic Programming\Week 2\VB Project\Bichen-Pang-Rectangle\Bichen-Pang-Rectangle\obj\Debug\Bichen_Pang_Rectangle.Form1.resources
+Z:\Dropbox\SMC\CS19 Advanced Visual Basic Programming\Week 2\VB Project\Bichen-Pang-Rectangle\Bichen-Pang-Rectangle\obj\Debug\Bichen_Pang_Rectangle.Resources.resources
+Z:\Dropbox\SMC\CS19 Advanced Visual Basic Programming\Week 2\VB Project\Bichen-Pang-Rectangle\Bichen-Pang-Rectangle\obj\Debug\Bichen-Pang-Rectangle.vbproj.GenerateResource.cache
+Z:\Dropbox\SMC\CS19 Advanced Visual Basic Programming\Week 2\VB Project\Bichen-Pang-Rectangle\Bichen-Pang-Rectangle\obj\Debug\Bichen-Pang-Rectangle.vbproj.CoreCompileInputs.cache
+Z:\Dropbox\SMC\CS19 Advanced Visual Basic Programming\Week 2\VB Project\Bichen-Pang-Rectangle\Bichen-Pang-Rectangle\obj\Debug\Bichen-Pang-Rectangle.exe
+Z:\Dropbox\SMC\CS19 Advanced Visual Basic Programming\Week 2\VB Project\Bichen-Pang-Rectangle\Bichen-Pang-Rectangle\obj\Debug\Bichen-Pang-Rectangle.xml
+Z:\Dropbox\SMC\CS19 Advanced Visual Basic Programming\Week 2\VB Project\Bichen-Pang-Rectangle\Bichen-Pang-Rectangle\obj\Debug\Bichen-Pang-Rectangle.pdb
